@@ -59,5 +59,4 @@ public class SistemaVendas {
         System.out.printf("Comissão: R$ %.2f%n", comissao);
 
         scanner.close();
-    }
-}
+    
